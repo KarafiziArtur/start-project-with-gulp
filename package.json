@@ -1,0 +1,24 @@
+{
+  "name": "start-project",
+  "description": "Project to start a new project",
+  "version": "0.0.1",
+  "devDependencies": {
+    "fs": "0.0.2",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-connect": "^2.2.0",
+    "gulp-csso": "^1.0.0",
+    "gulp-htmlmin": "^1.1.2",
+    "gulp-if": "^1.2.5",
+    "gulp-imagemin": "^2.2.1",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.1",
+    "gulp-uglify": "^1.2.0",
+    "gulp-uncss": "^1.0.1",
+    "gulp-useref": "^1.2.0",
+    "gulp-util": "^3.0.5",
+    "imagemin-jpegtran": "^4.2.0",
+    "opn": "^1.0.2",
+    "wiredep": "^2.2.2"
+  }
+}
