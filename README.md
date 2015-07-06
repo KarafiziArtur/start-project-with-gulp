@@ -4,5 +4,5 @@
   <li><code>npm i</code>  <i>// install all dependences</i></li>
   <li><code>gulp</code>   <i>// start watcher for scss, css, html, js files and launch livereload on localhost. Works on all devices automatically</i></li>
 </ol>
-<p><b>To compile app to build:</b></p>
+<p><b>To compile build of app:</b></p>
 <pre><code>gulp to-build</code></pre>
