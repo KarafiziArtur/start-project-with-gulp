@@ -105,7 +105,7 @@ gulp.task('html-min', function() {
 
 // Удаление неиспользуемых CSS стилей
 gulp.task('uncss', function() {
-    gulp.src('./app_build/_css/vendor.css')
+    gulp.src(['./app_build/_css/vendor.css', './app_build/_css/app.css'])
         .pipe(uncss({
             html: ['app_build/index.html']
         }))
